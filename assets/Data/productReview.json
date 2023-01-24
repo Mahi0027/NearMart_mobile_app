@@ -1,0 +1,187 @@
+[
+  {
+    "productId": 1,
+    "userId":1,
+    "username": "mohit sharma",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 4,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":2,
+    "username": "rahul sharma",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 3,
+    "images": [
+      "Images/extraImages/product-1.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":3,
+    "username": "amit",
+    "rating": 1,
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "images": [
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":4,
+    "username": "gita",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 5,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":5,
+    "username": "shyam",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 4,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":6,
+    "username": "ramakant",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 3,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":7,
+    "username": "rashid manjoor",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 3,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":8,
+    "username": "ronak",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 5,
+    "images": [
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":9,
+    "username": "muskan",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 2,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":10,
+    "username": "nikita gupta",
+    "rating": 5,
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":11,
+    "username": "ahmad",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 2,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":12,
+    "username": "mahesh",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 4,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":13,
+    "username": "suresh kumar",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 1,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg",
+      "Images/extraImages/product-4.jpg",
+      "Images/extraImages/product-4.jpg",
+      "Images/extraImages/product-4.jpg",
+      "Images/extraImages/product-4.jpg",
+      "Images/extraImages/product-4.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":14,
+    "username": "asha mishra",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 1,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  },
+  {
+    "productId": 1,
+    "userId":15,
+    "username": "ajad rohan",
+    "review": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
+    "rating": 3,
+    "images": [
+      "Images/extraImages/product-1.jpg",
+      "Images/extraImages/product-2.jpg",
+      "Images/extraImages/product-3.jpg",
+      "Images/extraImages/product-4.jpg"
+    ]
+  }
+]
